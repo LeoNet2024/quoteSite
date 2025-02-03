@@ -1,0 +1,10 @@
+.quotesList {
+  width: 40%;
+  max-width: 900px;
+  text-align: center;
+}
+
+.quotesList p1 {
+  color: red;
+  font-size: 3rem;
+}

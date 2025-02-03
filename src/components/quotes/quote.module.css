@@ -1,0 +1,10 @@
+.eachQuote {
+  text-align: left;
+  padding: 2rem 2rem;
+  background-color: rgb(236, 244, 244);
+  margin: 1rem;
+}
+
+.eachQuote p:nth-child(2) {
+  font-weight: bold;
+}

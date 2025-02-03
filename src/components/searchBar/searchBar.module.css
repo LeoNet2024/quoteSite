@@ -1,0 +1,19 @@
+.search {
+  display: flex;
+  justify-content: space-between;
+  font-size: 3rem;
+  max-width: 1200px;
+  width: 80%;
+  margin: 10px auto;
+}
+
+.search p {
+  font-size: 2rem;
+  text-transform: uppercase;
+  color: #072edb;
+  text-decoration: overline;
+}
+
+.search div {
+  color: red;
+}

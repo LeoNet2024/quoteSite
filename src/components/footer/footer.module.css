@@ -1,0 +1,8 @@
+footer p {
+  text-align: center;
+}
+
+footer p span {
+  color: rgb(21, 8, 8);
+  font-size: 5rem;
+}
